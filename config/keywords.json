@@ -1,0 +1,25 @@
+{
+  "keywords": [
+    "machine-learning",
+    "deep-learning",
+    "artificial-intelligence",
+    "llm",
+    "large-language-model",
+    "gpt",
+    "transformer",
+    "neural-network",
+    "diffusion",
+    "generative-ai",
+    "nlp",
+    "computer-vision",
+    "reinforcement-learning",
+    "ai-agent",
+    "rag",
+    "fine-tuning",
+    "inference",
+    "embedding"
+  ],
+  "languages": ["Python", "TypeScript", "JavaScript", "Rust", "Go", "C++"],
+  "top_n": 10,
+  "min_stars": 50
+}
