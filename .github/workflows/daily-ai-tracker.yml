@@ -43,7 +43,7 @@ jobs:
         run: |
           git config user.name "AI Tracker Bot"
           git config user.email "bot@example.com"
-          git add obsidian/ data/
+          git add obsidian/
           git diff --cached --quiet || git commit -m "daily: AI report $(date +%Y-%m-%d)"
           git push
         env:
